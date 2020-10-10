@@ -1,0 +1,11 @@
+{
+    "agent_seed": 2053790375,
+    "backend_type": "PandaPowerBackend_x1.5",
+    "chronics_max_timestep": "2016",
+    "chronics_path": "/Users/dai/dev/lab/grid/L2RPN_neurips2020_track2_starting_kit/input_data_local/x1.5/chronics/dec19",
+    "cumulative_reward": 455871.4375,
+    "env_seed": 23203042,
+    "env_type": "Environment_x1.5",
+    "grid_path": "/Users/dai/dev/lab/grid/L2RPN_neurips2020_track2_starting_kit/input_data_local/x1.5/grid.json",
+    "nb_timestep_played": 677
+}

@@ -1,0 +1,11 @@
+[submodule "lightsim2grid"]
+	path = lightsim2grid
+	url = git@github.com:falcondai/lightsim2grid.git
+
+[submodule "grid2op"]
+	path = grid2op
+	url = git@github.com:falcondai/grid2op.git
+
+[submodule "l2rpn-baselines"]
+	path = l2rpn-baselines
+	url = git@github.com:falcondai/l2rpn-baselines.git
